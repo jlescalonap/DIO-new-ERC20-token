@@ -43,3 +43,5 @@ Em comparação com a _versão original do contrato_, sugerida pelo professor, f
 > Observação: Esse repositório faz parte integral do projeto de criação de **Token ERC20** para a plataforma de ensino **DIO**, e o codigo aqui mostrado representa a customização e implementação de melhoras do codigo base sugerido pelo Instrutor **Ricardo Zago**:
 
 Codigo original (base): [ver código](https://github.com/relsi/web3-blockchain-classes/blob/main/token.sol)
+
+**Transação do Deploy na Testnet Sepolia**: [visitar enlace](https://sepolia.etherscan.io/token/0xe65edf5d76a4505891d6aed576084549f24a131e)
